@@ -1,0 +1,23 @@
+p {
+    color: blue;
+    font-style: italic;
+    font-size: 50px;
+}
+li > b {
+    color: red;
+}
+.xxx {
+    color: green;
+}
+.zzz {
+    color: yellow;
+}
+.odd {
+    color: red;
+}
+.eve {
+    color: green;
+}
+.xxx {
+    font-size: 30px;
+}

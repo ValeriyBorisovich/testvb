@@ -1,0 +1,20 @@
+a {
+    color: rgb(0, 255, 242);
+    text-decoration: none;
+}
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+#elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid green;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+}
+body {
+    background-image: url(bg.png);
+    background-repeat: repeat-x;
+}
