@@ -4,7 +4,7 @@ p {
     font-size: 50px;
 }
 li > b {
-    color: red;
+    color: green;
 }
 .xxx {
     color: green;
